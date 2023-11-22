@@ -1,0 +1,6 @@
+.postBorder {
+  border: 2px solid rgb(121, 29, 29);
+  padding: 20px;
+  border-radius: 10px;
+  color: red;
+}
